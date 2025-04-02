@@ -1,5 +1,5 @@
 # AES256
-
+Miniprojekt für das Modul systemnahe Programmierung mit Rust
  
 
 Dieses kleine Rust CLI Programm nutzt die AES-GCM Crate um eine symmetrische Verschlüsselung von Texten zu implementieren.
